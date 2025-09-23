@@ -2,7 +2,7 @@
 The challenge asks us to invoke the 'echo' and 'hello' commands with different arguments to obtain different results.
 
 ## My solve
-**Flag:** 'pwn.college{MH4ODxPkw3BffeIAWpI6s-f0fOd.QX4YjM1wyNwQzNzEzW}'
+**Flag:** `pwn.college{MH4ODxPkw3BffeIAWpI6s-f0fOd.QX4YjM1wyNwQzNzEzW}`
 
 first, we execute teh 'echo' command, which can take up any number of arguments given. For example , echo 'Hello' has one argument 'Hello' and 
 therefore it prints that argument 'Hello'. Similarly echo 'Hello Hackers' has two arguments , therefore it prints 'Hello Hackers'.
