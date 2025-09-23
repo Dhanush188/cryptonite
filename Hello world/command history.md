@@ -2,16 +2,17 @@
 This Challenge asks us to use up and down arrow keys to find the commands used before and grab the flag.  
 
 ## My solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{QBV70Xo8g-qHPcxU0MuW6UJZSw6.0lNzEzNxwyNwQzNzEzW}`
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for bash.
+First we enter the up arrow button. We repeat this until we find the flag which has been injected into the history.
+Now we copy and paste the flag.
 
 ```
-
+hacker@hello~command-history:~$ the flag is pwn.college{QBV70Xo8g-qHPcxU0MuW6UJZSw6.0lNzEzNxwyNwQzNzEzW}
 ```
 
 ## What I learned
-explain what you learned
+I learned how up and down arrow keys can be used to scroll through the saved commands.
 
 ## References 
 Add any references or videos u used while solving the challenge.
