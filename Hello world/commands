@@ -1,1 +1,17 @@
+# Intro to Commands
+the challenge asks us to invoke our first command
 
+## My solve
+**Flag:** pwn.college{AwKyiVu1Gl6nBEXjl3KrmKqD169.QX3YjM1wyNwQzNzEzW}
+
+type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for bash.
+```bash
+example triple ticks for bash
+pwn.college{helloworld}
+```
+
+## What I learned
+explain what you learned
+
+## References 
+Add any references or videos u used while solving the challenge.
