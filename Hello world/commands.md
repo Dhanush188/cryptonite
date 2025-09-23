@@ -2,7 +2,7 @@
 the challenge asks us to invoke the 'Hello' command in the shell.
 
 ## My solve
-**Flag:** 'pwn.college{AwKyiVu1Gl6nBEXjl3KrmKqD169.QX3YjM1wyNwQzNzEzW}'
+**Flag:** `pwn.college{AwKyiVu1Gl6nBEXjl3KrmKqD169.QX3YjM1wyNwQzNzEzW}`
 
 First we execute the 'whoami' command in the terminal, which simply prints the username to the terminal
 In a similar way, we can use the 'hello' command to obtain the flag.
