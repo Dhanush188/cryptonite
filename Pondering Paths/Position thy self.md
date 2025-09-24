@@ -1,5 +1,6 @@
 # Position thy self
-The challenge asks us to cd(change directory) to a directory(/sys/kernel), which is obtained by executing '/challenge/run', because '/challenge/run lies in that directory.
+The challenge asks us to cd(change directory) to a directory(/sys/kernel), which is obtained by executing '/challenge/run', 
+because '/challenge/run lies in that directory.
 
 ## My solve
 **Flag:** `pwn.college{gPpQGbihHEgQ0eniRZMsZIF6caI.QX2QTN0wyNwQzNzEzW}`
