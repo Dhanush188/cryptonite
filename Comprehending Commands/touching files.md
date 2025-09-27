@@ -1,4 +1,4 @@
-# Challenge Name
+# touching files
 The challenge asks us to create two new files: /tmp/pwn and /tmp/college, and run /challenge/run to get the flag
 
 ## My solve
